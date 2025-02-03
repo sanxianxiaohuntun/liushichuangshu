@@ -45,5 +45,7 @@
 只限于兼容流试输出（比如电子魅魔）
 
 ## 截图
-![before](![image](https://raw.githubusercontent.com/sanxianxiaohuntun/wodecuntu12/refs/heads/main/%E6%B5%81%E8%AF%951.png)
-![before](![image](https://raw.githubusercontent.com/sanxianxiaohuntun/wodecuntu12/refs/heads/main/%E6%B5%81%E8%AF%952.png)
+![image](https://github.com/user-attachments/assets/fbb72568-fd97-4ef0-a521-1e88f558bcb6)
+![image](https://github.com/user-attachments/assets/e61517fa-4d16-4d8f-8a26-186ef599a580)
+
+
