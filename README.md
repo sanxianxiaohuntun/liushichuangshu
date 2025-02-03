@@ -44,6 +44,8 @@
 
 只限于兼容流试输出（比如电子魅魔）
 
+不影响任何非流输出
+
 ## 截图
 ![image](https://github.com/user-attachments/assets/fbb72568-fd97-4ef0-a521-1e88f558bcb6)
 ![image](https://github.com/user-attachments/assets/e61517fa-4d16-4d8f-8a26-186ef599a580)
